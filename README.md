@@ -36,13 +36,6 @@
 
 -Final scores are displayed
 
-⚙️ How to Run the Project
-1️⃣ Clone the repository
-git clone https://github.com/your-username/rock-paper-scissors-python.git
-
-2️⃣ Run the Python file
-python main.py
-
 📸 Example Output
 How Many Rounds Do You Wanna Play: 3
 
