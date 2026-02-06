@@ -1,28 +1,70 @@
-# Rock-Paper-Scissor-
-# 🎮 Rock Paper Scissors Game in Python
+🎮 Rock Paper Scissors Game in Python
+📌 About the Project
 
-## 📌 Description
-This is a beginner-friendly Rock, Paper, Scissors game written in Python.  
-The user plays against the computer, and the program keeps track of scores for multiple rounds.
+-This is a simple Rock Paper Scissors game built using Python.
+-The user plays against the computer for multiple rounds, and the program keeps track of scores and declares the final winner.
 
----
+-This project is beginner-friendly and demonstrates the use of loops, conditionals, user input, and the random module.
 
-## 🚀 Features
-- Play multiple rounds
-- Random computer moves
-- Score tracking for user and computer
-- Final winner announcement
+🚀 Features
 
----
+*Play multiple rounds
 
-## 🛠️ Technologies Used
-- Python
-- random module
+*Computer makes random moves
 
----
+*User vs Computer gameplay
 
-## ⚙️ How to Run
+*Score tracking system
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
+*Final winner announcement
+
+🛠️ Technologies Used
+
+~Python
+
+~random module
+
+📂 How the Game Works
+
+-User enters the number of rounds
+
+-User chooses Stone, Paper, or Scissor6
+
+-Computer randomly selects its move
+
+-Winner of each round is calculated
+
+-Final scores are displayed
+
+⚙️ How to Run the Project
+1️⃣ Clone the repository
+git clone https://github.com/your-username/rock-paper-scissors-python.git
+
+2️⃣ Run the Python file
+python main.py
+
+📸 Example Output
+How Many Rounds Do You Wanna Play: 3
+
+Round 1  
+Stone / Paper / Scissor: Stone  
+Computer: Paper  
+Computer Wins  
+
+Your Score: 3 
+Computer Score: 1  
+Congratulations, You Win!
+
+👤 Author
+
+Robin Rajput
+🎓 BCA Student | Python Learner
+
+⭐ Note
+
+This is my beginner Python project.
+I am learning programming and building projects to improve my skills.
+
+📜 License
+
+This project is open-source and free to use.
